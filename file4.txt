@@ -3,3 +3,5 @@ git pull test
 git fetch
 git fetch1
 git fetch3
+
+it reverse operatioins
